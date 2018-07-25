@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.longkong.app.321</string>
+				<string>com.longkong.321</string>
 				<key>bundle-version</key>
 				<string>1.2.30</string>
 				<key>kind</key>
